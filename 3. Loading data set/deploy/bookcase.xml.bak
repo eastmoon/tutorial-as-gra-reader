@@ -1,0 +1,32 @@
+<data>
+	<book>
+		<id>book1</id>
+		<cover>00000.png</cover>
+		<name>書本A</name>
+	</book>
+	<book>
+		<id>book1</id>
+		<cover>00001.jpg</cover>
+		<name>書本A</name>
+	</book>
+	<book>
+		<id>book1</id>
+		<cover>00002.png</cover>
+		<name>書本A</name>
+	</book>
+	<book>
+		<id>book1</id>
+		<cover>00003.png</cover>
+		<name>書本A</name>
+	</book>
+	<book>
+		<id>book1</id>
+		<cover>00004.png</cover>
+		<name>書本A</name>
+	</book>
+	<book>
+		<id>book1</id>
+		<cover>00005.png</cover>
+		<name>書本A</name>
+	</book>
+</data>
